@@ -5,5 +5,5 @@ echo "I am learning Devops"
 echo "Adding new line"
 echo "This line is added from github"
 echo "This line is added from github and I am learning git"
-echo "This line is added from github and I am learning git and branching"
-
+echo "I am learning branching"
+echo "I am learning merging"
